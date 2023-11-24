@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1700849944,,"wq"
+|2,0,1700850281,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,33 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/program.c
-|4,48,6,0,1700849944,"~/program.c"
+'0  4  12  ~/program.c
+|4,48,4,12,1700850281,"~/program.c"
+'1  7  0  ~/program.c
+|4,49,7,0,1700849944,"~/program.c"
+'2  6  0  ~/program.c
+|4,50,6,0,1700849944,"~/program.c"
 
 # Jumplist (newest first):
+-'  4  12  ~/program.c
+|4,39,4,12,1700850281,"~/program.c"
+-'  7  0  ~/program.c
+|4,39,7,0,1700850259,"~/program.c"
 -'  6  0  ~/program.c
 |4,39,6,0,1700849944,"~/program.c"
+-'  1  0  ~/program.c
+|4,39,1,0,1700849871,"~/program.c"
 -'  1  0  ~/program.c
 |4,39,1,0,1700849871,"~/program.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/program.c
-	*	1700849935	0
-	"	6	0
-	^	6	1
-	.	6	0
+	*	1700850279	0
+	"	4	12
+	^	4	13
+	.	4	12
 	+	3	12
+	+	8	0
 	+	7	0
-	+	6	0
+	+	4	12
