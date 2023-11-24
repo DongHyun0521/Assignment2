@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1700850281,,"wq"
+|2,0,1700850464,,"wq"
+:q
+|2,0,1700850413,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +27,52 @@
 # Registers:
 
 # File marks:
-'0  4  12  ~/program.c
-|4,48,4,12,1700850281,"~/program.c"
-'1  7  0  ~/program.c
-|4,49,7,0,1700849944,"~/program.c"
-'2  6  0  ~/program.c
-|4,50,6,0,1700849944,"~/program.c"
+'0  5  12  ~/program.c
+|4,48,5,12,1700850464,"~/program.c"
+'1  4  12  ~/program.c
+|4,49,4,12,1700850413,"~/program.c"
+'2  4  12  ~/program.c
+|4,50,4,12,1700850413,"~/program.c"
+'3  4  12  ~/program.c
+|4,51,4,12,1700850281,"~/program.c"
+'4  4  12  ~/program.c
+|4,52,4,12,1700850281,"~/program.c"
+'5  8  0  ~/program.c
+|4,53,8,0,1700849944,"~/program.c"
+'6  7  0  ~/program.c
+|4,54,7,0,1700849944,"~/program.c"
+'7  8  0  ~/program.c
+|4,55,8,0,1700849944,"~/program.c"
+'8  7  0  ~/program.c
+|4,56,7,0,1700849944,"~/program.c"
+'9  7  0  ~/program.c
+|4,57,7,0,1700849944,"~/program.c"
 
 # Jumplist (newest first):
+-'  5  12  ~/program.c
+|4,39,5,12,1700850464,"~/program.c"
+-'  4  12  ~/program.c
+|4,39,4,12,1700850450,"~/program.c"
+-'  4  12  ~/program.c
+|4,39,4,12,1700850413,"~/program.c"
 -'  4  12  ~/program.c
 |4,39,4,12,1700850281,"~/program.c"
+-'  8  0  ~/program.c
+|4,39,8,0,1700850259,"~/program.c"
 -'  7  0  ~/program.c
 |4,39,7,0,1700850259,"~/program.c"
+-'  7  0  ~/program.c
+|4,39,7,0,1700850259,"~/program.c"
+-'  7  0  ~/program.c
+|4,39,7,0,1700849944,"~/program.c"
 -'  6  0  ~/program.c
 |4,39,6,0,1700849944,"~/program.c"
+-'  6  0  ~/program.c
+|4,39,6,0,1700849944,"~/program.c"
+-'  1  0  ~/program.c
+|4,39,1,0,1700849871,"~/program.c"
+-'  1  0  ~/program.c
+|4,39,1,0,1700849871,"~/program.c"
 -'  1  0  ~/program.c
 |4,39,1,0,1700849871,"~/program.c"
 -'  1  0  ~/program.c
@@ -47,11 +81,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/program.c
-	*	1700850279	0
-	"	4	12
-	^	4	13
-	.	4	12
+	*	1700850463	0
+	"	5	12
+	^	5	13
+	.	5	12
 	+	3	12
+	+	9	0
 	+	8	0
-	+	7	0
-	+	4	12
+	+	4	13
+	+	5	12
