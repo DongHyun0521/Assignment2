@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1700850901,,"wq"
+|2,0,1700851867,,"wq"
 :q
 |2,0,1700850413,,"q"
 
@@ -28,29 +28,33 @@
 
 # File marks:
 '0  6  9  ~/program.c
-|4,48,6,9,1700850901,"~/program.c"
-'1  5  12  ~/program.c
-|4,49,5,12,1700850464,"~/program.c"
+|4,48,6,9,1700851867,"~/program.c"
+'1  6  9  ~/program.c
+|4,49,6,9,1700850901,"~/program.c"
 '2  5  12  ~/program.c
 |4,50,5,12,1700850464,"~/program.c"
-'3  4  12  ~/program.c
-|4,51,4,12,1700850413,"~/program.c"
-'4  4  12  ~/program.c
-|4,52,4,12,1700850413,"~/program.c"
-'5  4  12  ~/program.c
-|4,53,4,12,1700850413,"~/program.c"
+'3  5  12  ~/program.c
+|4,51,5,12,1700850464,"~/program.c"
+'4  5  12  ~/program.c
+|4,52,5,12,1700850464,"~/program.c"
+'5  5  12  ~/program.c
+|4,53,5,12,1700850464,"~/program.c"
 '6  4  12  ~/program.c
 |4,54,4,12,1700850413,"~/program.c"
 '7  4  12  ~/program.c
-|4,55,4,12,1700850281,"~/program.c"
+|4,55,4,12,1700850413,"~/program.c"
 '8  4  12  ~/program.c
-|4,56,4,12,1700850281,"~/program.c"
+|4,56,4,12,1700850413,"~/program.c"
 '9  4  12  ~/program.c
-|4,57,4,12,1700850281,"~/program.c"
+|4,57,4,12,1700850413,"~/program.c"
 
 # Jumplist (newest first):
 -'  6  9  ~/program.c
+|4,39,6,9,1700851867,"~/program.c"
+-'  6  9  ~/program.c
 |4,39,6,9,1700850901,"~/program.c"
+-'  5  12  ~/program.c
+|4,39,5,12,1700850875,"~/program.c"
 -'  5  12  ~/program.c
 |4,39,5,12,1700850875,"~/program.c"
 -'  5  12  ~/program.c
@@ -60,9 +64,17 @@
 -'  4  12  ~/program.c
 |4,39,4,12,1700850450,"~/program.c"
 -'  4  12  ~/program.c
+|4,39,4,12,1700850450,"~/program.c"
+-'  4  12  ~/program.c
 |4,39,4,12,1700850413,"~/program.c"
 -'  4  12  ~/program.c
 |4,39,4,12,1700850281,"~/program.c"
+-'  9  0  ~/program.c
+|4,39,9,0,1700850259,"~/program.c"
+-'  8  0  ~/program.c
+|4,39,8,0,1700850259,"~/program.c"
+-'  7  0  ~/program.c
+|4,39,7,0,1700850259,"~/program.c"
 -'  9  0  ~/program.c
 |4,39,9,0,1700850259,"~/program.c"
 -'  8  0  ~/program.c
@@ -91,11 +103,13 @@
 |4,39,1,0,1700849871,"~/program.c"
 -'  1  0  ~/program.c
 |4,39,1,0,1700849871,"~/program.c"
+-'  1  0  ~/program.c
+|4,39,1,0,1700849871,"~/program.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/program.c
-	*	1700850899	0
+	*	1700851866	0
 	"	6	9
 	^	6	10
 	.	6	9
